@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6f%2Fdd%2F7c%2F6fdd7c5d0ae487e53fcacdb7a01838b5.jpg&f=1&nofb=1&ipt=c4c3dd3ed271da0f984653e0cd28a27f7704ad9e3a25ce85e08b2c83142c1e27&ipo=images);
+    background-size: cover;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 50px;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    font-size: 20px;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-top: 25px;
+}
